@@ -1,0 +1,1 @@
+Running python -m SimpleHTTPServer (or python -m http.server for Python 3) in a terminal in the same directory as your HTML file.
